@@ -4,6 +4,8 @@ Recognition of handwritten and machine characters is an emerging area of researc
 
 ![image](https://user-images.githubusercontent.com/59141222/123538924-b80cbf80-d754-11eb-9fca-a831c17d5f48.png)
 
+HCI Project!
+
 
 
 ## There is also a user guide (with complete steps) to get acquainted with the application in the form of 'Help and Documentation'.
